@@ -21,6 +21,15 @@ We introduce **DCT-RCAN**, a DCT-guided residual network that utilizes Discrete 
 
 ---
 
+## 🧠 Network Architecture
+
+<p align="center"><strong>Network Architecture of DCT-RCAN</strong></p>
+<p align="center">
+  <img src="https://github.com/jianghongcheng/DCT-RCAN/blob/master/Figures/Network.png" width="800"/>
+</p>
+
+---
+
 ## 📊 Quantitative Results
 
 <p align="center">
@@ -86,12 +95,12 @@ We introduce **DCT-RCAN**, a DCT-guided residual network that utilizes Discrete 
 
 ## 🖼️ Visual Results
 
-### 2D-DCT Visualization from a NIR Image
+<p align="center"><strong>2D-DCT Visualization from a NIR Image</strong></p>
 <p align="center">
   <img src="https://github.com/jianghongcheng/DCT-RCAN/blob/master/Figures/2d-DCT.png" width="800"/>
 </p>
 
-### Comparison with State-of-the-Art Methods
+<p align="center"><strong>Comparison with State-of-the-Art Methods</strong></p>
 <p align="center">
   <img src="https://github.com/jianghongcheng/DCT-RCAN/blob/master/Figures/Visual_Result.png" width="800"/>
 </p>
@@ -111,3 +120,13 @@ If you find this work helpful in your research, please cite:
   year={2022},
   organization={IEEE}
 }
+
+---
+
+## 📬 Contact
+
+If you have any questions, feedback, or collaboration ideas, feel free to reach out:
+
+- 💻 Website: [jianghongcheng.github.io](https://jianghongcheng.github.io/)
+- 📧 Email: [hjq44@mail.umkc.edu](mailto:hjq44@mail.umkc.edu)
+- 🏫 Affiliation: University of Missouri–Kansas City (UMKC)
