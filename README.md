@@ -23,22 +23,61 @@ We propose a novel DCT-guided colorization framework that integrates Discrete Co
 
 ## 📊 Quantitative Results
 
-<p align="center">
-  <img src="https://github.com/jianghongcheng/DCT-RCAN/blob/master/Figures/Quantitative_Comparison.png" width="600"/>
-</p>
+<p align="center"><b>Table: Average PSNR (dB), SSIM, and Angular Error (AE in degrees) on the validation dataset.</b></p>
 
-**Table: Average PSNR (dB), SSIM, and Angular Error (AE in degrees) on the validation dataset.**
+<div align="center">
 
-| Model             | PSNR (dB) | SSIM  | AE (°) |
-|------------------|:---------:|:-----:|:------:|
-| MFF              | 17.39     | 0.61  | 4.69   |
-| ATcycleGAN       | 20.67     | 0.68  | 3.97   |
-| SST              | 14.26     | 0.57  | 5.61   |
-| SPADE            | 19.24     | 0.59  | 4.59   |
-| NIR-GNN          | 17.50     | 0.60  | 5.22   |
-| **Proposed Method** | **22.15** | **0.77** | **3.40** |
+<table>
+  <thead>
+    <tr>
+      <th>Model</th>
+      <th>PSNR (dB)</th>
+      <th>SSIM</th>
+      <th>AE (°)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>MFF</td>
+      <td>17.39</td>
+      <td>0.61</td>
+      <td>4.69</td>
+    </tr>
+    <tr>
+      <td>ATcycleGAN</td>
+      <td>20.67</td>
+      <td>0.68</td>
+      <td>3.97</td>
+    </tr>
+    <tr>
+      <td>SST</td>
+      <td>14.26</td>
+      <td>0.57</td>
+      <td>5.61</td>
+    </tr>
+    <tr>
+      <td>SPADE</td>
+      <td>19.24</td>
+      <td>0.59</td>
+      <td>4.59</td>
+    </tr>
+    <tr>
+      <td>NIR-GNN</td>
+      <td>17.50</td>
+      <td>0.60</td>
+      <td>5.22</td>
+    </tr>
+    <tr>
+      <td><b>Proposed Method</b></td>
+      <td><b>22.15</b></td>
+      <td><b>0.77</b></td>
+      <td><b>3.40</b></td>
+    </tr>
+  </tbody>
+</table>
 
----
+</div>
+
 
 ## 🖼️ Visual Results
 
