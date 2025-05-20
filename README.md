@@ -13,15 +13,19 @@
 
 ## 🔍 Overview
 
-This repository contains the official implementation of the paper  
-**"DCT-Based Residual Network for NIR Image Colorization"**  
+This repository provides the official implementation of  
+**"DCT-Based Residual Network for NIR Image Colorization"**,  
 published in **IEEE ICIP 2022**.
 
-We propose a novel DCT-guided colorization framework that integrates Discrete Cosine Transform (DCT) frequency priors with a residual channel attention network (RCAN) to colorize Near-Infrared (NIR) images into RGB. The model achieves superior performance compared to existing methods on multiple benchmarks.
+We introduce **DCT-RCAN**, a DCT-guided residual network that utilizes Discrete Cosine Transform (DCT) frequency priors to enhance the colorization of Near-Infrared (NIR) images. By integrating frequency-domain guidance into a channel attention framework, our model achieves high-fidelity RGB reconstruction with superior spatial and chromatic consistency.
 
 ---
 
 ## 📊 Quantitative Results
+
+<p align="center">
+  <img src="https://github.com/jianghongcheng/DCT-RCAN/blob/master/Figures/Quantitative_Comparison.png" width="600"/>
+</p>
 
 <p align="center"><b>Table: Average PSNR (dB), SSIM, and Angular Error (AE in degrees) on the validation dataset.</b></p>
 
@@ -78,6 +82,7 @@ We propose a novel DCT-guided colorization framework that integrates Discrete Co
 
 </div>
 
+---
 
 ## 🖼️ Visual Results
 
@@ -95,11 +100,11 @@ We propose a novel DCT-guided colorization framework that integrates Discrete Co
 
 ## 📚 Citation
 
-If you find this work useful in your research, please cite:
+If you find this work helpful in your research, please cite:
 
 ```bibtex
 @inproceedings{jiang2022dct,
-  title={DCT-based Residual Network for NIR Image Colorization},
+  title={DCT-Based Residual Network for NIR Image Colorization},
   author={Jiang, Hongcheng and Maharjan, Paras and Li, Zhu and York, George},
   booktitle={2022 IEEE International Conference on Image Processing (ICIP)},
   pages={2926--2930},
