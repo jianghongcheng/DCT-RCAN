@@ -107,6 +107,16 @@ We introduce **DCT-RCAN**, a DCT-guided residual network that utilizes Discrete 
 
 ---
 
+## 📬 Contact
+
+If you have any questions, feedback, or collaboration ideas, feel free to reach out:
+
+- 💻 Website: [jianghongcheng.github.io](https://jianghongcheng.github.io)
+- 📧 Email: [hjq44@mail.umkc.edu](mailto:hjq44@mail.umkc.edu)
+- 🏫 Affiliation: University of Missouri–Kansas City (UMKC)
+
+---
+
 ## 📚 Citation
 
 If you find this work helpful in your research, please cite:
@@ -123,11 +133,4 @@ If you find this work helpful in your research, please cite:
 
 
 ---
-## 📬 Contact
 
-If you have any questions, feedback, or collaboration ideas, feel free to reach out:
-
-- 💻 Website: [jianghongcheng.github.io](https://jianghongcheng.github.io)
-- 📧 Email: [hjq44@mail.umkc.edu](mailto:hjq44@mail.umkc.edu)
-- 🏫 Affiliation: University of Missouri–Kansas City (UMKC)
----
