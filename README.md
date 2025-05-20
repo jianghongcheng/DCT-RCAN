@@ -26,8 +26,6 @@ We propose **DCT-RCAN**, a DCT-guided residual network for NIR image colorizatio
 - **SSIM**: 0.77 (**+0.09**, +13.2%)  
 - **AE**: 3.40° (**–0.57°**, –14.4%)
 
-Compared to the best prior method (ATcycleGAN), DCT-RCAN delivers consistent improvements across all metrics, demonstrating the strong effectiveness of frequency-domain priors.
-
 ---
 
 ## 🧠 Network Architecture
