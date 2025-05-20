@@ -15,7 +15,7 @@
 
 This repository provides the official implementation of  
 **"DCT-Based Residual Network for NIR Image Colorization"**,  
-published in **IEEE ICIP 2022**.
+Published in **[IEEE ICIP 2022](https://ieeexplore.ieee.org/document/9897373)**.
 
 ## 📈 Performance Gains
 
