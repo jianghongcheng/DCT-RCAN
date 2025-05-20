@@ -130,7 +130,3 @@ If you find this work helpful in your research, please cite:
   year={2022},
   organization={IEEE}
 }
-
-
----
-
