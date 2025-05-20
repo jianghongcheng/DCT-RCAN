@@ -122,7 +122,7 @@ If you find this work helpful in your research, please cite:
 }
 
 
-
+---
 ## 📬 Contact
 
 If you have any questions, feedback, or collaboration ideas, feel free to reach out:
@@ -130,3 +130,4 @@ If you have any questions, feedback, or collaboration ideas, feel free to reach 
 - 💻 Website: [jianghongcheng.github.io](https://jianghongcheng.github.io)
 - 📧 Email: [hjq44@mail.umkc.edu](mailto:hjq44@mail.umkc.edu)
 - 🏫 Affiliation: University of Missouri–Kansas City (UMKC)
+---
