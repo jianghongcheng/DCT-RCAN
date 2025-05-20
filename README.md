@@ -17,7 +17,16 @@ This repository provides the official implementation of
 **"DCT-Based Residual Network for NIR Image Colorization"**,  
 published in **IEEE ICIP 2022**.
 
-We introduce **DCT-RCAN**, a DCT-guided residual network that utilizes Discrete Cosine Transform (DCT) frequency priors to enhance the colorization of Near-Infrared (NIR) images. By integrating frequency-domain guidance into a channel attention framework, our model achieves high-fidelity RGB reconstruction with superior spatial and chromatic consistency.
+## 📈 Performance Gains
+
+We propose **DCT-RCAN**, a DCT-guided residual network for NIR image colorization.
+
+✅ **Results on Validation Set**  
+- **PSNR**: 22.15 dB (**+1.48 dB**, +7.2%)  
+- **SSIM**: 0.77 (**+0.09**, +13.2%)  
+- **AE**: 3.40° (**–0.57°**, –14.4%)
+
+Compared to the best prior method (ATcycleGAN), DCT-RCAN delivers consistent improvements across all metrics, demonstrating the strong effectiveness of frequency-domain priors.
 
 ---
 
